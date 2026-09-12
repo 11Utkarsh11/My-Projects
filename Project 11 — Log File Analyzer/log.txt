@@ -1,0 +1,16 @@
+INFO User logged in
+INFO User opened dashboard
+WARNING Disk space is low
+ERROR Database connection failed
+INFO User logged out
+ERROR File not found
+INFO User logged in
+WARNING CPU usage is high
+INFO User logged in
+INFO User opened dashboard
+WARNING Disk space is low
+ERROR Database connection failed
+INFO User logged out
+ERROR File not found
+INFO User logged in
+WARNING CPU usage is high
