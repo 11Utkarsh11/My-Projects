@@ -1,4 +1,4 @@
-# This repo contains all of the projects made by me in the initial phase of my learning in python.
+# This repo contains all of the projects made by me in the initial phase of my python learning.
 - Number guessing game
 - rock, paper and scissors
 - Quiz application
