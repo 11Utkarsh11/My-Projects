@@ -1,0 +1,13 @@
+# This repo contains all of the projects made by me in the initial phase of my learning in python.
+- Number guessing game
+- rock, paper and scissors
+- Quiz application
+- To-do-list
+- Simple expense tracker
+- Password generator
+- Text adventure game
+- Contact book
+- Typing speed tester
+- File organizer
+- Log file analyzer
+- Flashcard study app
