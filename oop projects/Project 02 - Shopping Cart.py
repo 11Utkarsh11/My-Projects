@@ -24,6 +24,10 @@ class ShoppingCart:
     def price_total(self):
         return sum(product.price for product in self.products)
 
+# =========================
+# TEST CODE
+# =========================
+
 # Create some products
 
 product1 = Product("Keyboard", 2000)

@@ -58,6 +58,10 @@ Status: {"Borrowed" if book.is_book_borrowed else "Available"}""")
 
         return(f"{title} not found")
 
+# =========================
+# TEST CODE
+# =========================
+
 # Create books
 
 book1 = Book("Harry Potter", "J.K. Rowling")

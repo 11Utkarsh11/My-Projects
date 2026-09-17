@@ -63,6 +63,10 @@ Marks:-
 Average: {self.average_marks()} => {self.check_result()}
 """
 
+# =========================
+# TEST CODE
+# =========================
+
 # 1st student
 student1 = StudentManagement("Utkarsh", 22, "BCA")
 

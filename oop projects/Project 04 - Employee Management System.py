@@ -41,6 +41,10 @@ class EmployeeManagement:
         for employee in self.employees:
             employee.work()
 
+# =========================
+# TEST CODE
+# =========================
+
 # Create employees
 
 employee1 = Employee("Utkarsh", 45000)
