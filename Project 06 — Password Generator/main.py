@@ -28,4 +28,4 @@ while True:
 
     print(f"\nGenerated Password: {generated_password}")
 
-    # break
+    break
